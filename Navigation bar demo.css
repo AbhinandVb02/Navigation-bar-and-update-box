@@ -1,0 +1,77 @@
+ul{
+    border: 1px solid black;
+    height: 50px;
+    
+    background-color: black;
+    list-style-type: none;
+    text-align: right;
+    margin: 0;
+    padding: 0;
+    padding-top: 40px;
+  background-image: url("https://i.pinimg.com/originals/16/15/56/161556530c892bcd1c7b38df01de24ec.jpg");
+  background-size: 100px 100px;
+  background-repeat: no-repeat;
+  font-family: monospace;
+  font-size: large;
+  
+}
+a{
+    padding-left: 40px;
+    color: white;
+    margin-left: 100%;
+    text-decoration: none;
+}
+body{
+    background-image: url("https://4kwallpapers.com/images/walls/thumbs_2t/8565.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+input{
+    margin-left: 500%;
+    
+}
+li{
+    float: left;
+    list-style-type: none;
+    
+    
+}
+ul:hover li a{
+    color: #30edf4;
+}
+ul:hover li a:not(:hover){
+    color: white;
+    opacity: 0.3;
+}
+
+
+img{
+    height: 100px;
+    width: 200px;
+}
+h2{
+    color: red;
+    font-family:monospace
+}
+.css1{
+    margin-left: 85%;
+    border: 1px solid black;
+    margin-top: 10px;
+    padding: 10px;
+    height: max-content;
+    width: max-content;
+    color: white;
+    background-color: rgb(28, 31, 33);
+    align-items: center;
+    
+}
+
+.imgdiv{
+    height: 300px;
+    width: 500px;
+    padding: 50px;
+    margin-left: 400px;
+}
+
+  
+
